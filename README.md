@@ -2,7 +2,7 @@
 
 ![screen-shot](https://i.imgur.com/JHgrRn6.png)
 
-You can see a live preview of the Stunning 3D Portfolio Website [here](https://3d-portfolio-eskew.netlify.app).
+You can see a live preview of the Stunning 3D Portfolio Website [here](https://hari-portfolio-2025-one.vercel.app).
 
 > Welcome to the Stunning 3D Portfolio Website repository! This project aims to provide an immersive and visually striking portfolio website using cutting-edge technologies. Whether you're a designer, developer, or creative professional, this portfolio template will leave a lasting impression on your visitors.
 
@@ -36,15 +36,9 @@ Contributions are welcome and encouraged! If you find any issues or have ideas f
 ## License
 This project is licensed under the `MIT License`.
 
-## Acknowledgments
-A huge thank you to the following resources and inspirations:
-
-- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
-- [TailwindCSS](https://tailwindcss.com)
-
 ## Contact
 If you have any questions, or suggestions, or just want to say hi, you can reach out to the project maintainer:
 
-- Andrew Tsegaye
-- Email: andrewtsegaye7@gmail.com
-- Twitter: [@AndrewTsegaye](https://twitter.com/AndrewTsegaye).
+- Hariom Kushwah
+- Whatsapp: +91-9870071432
+- Instagram: @hariom_40290.
