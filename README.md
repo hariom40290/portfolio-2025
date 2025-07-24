@@ -1,6 +1,6 @@
 # Stunning 3D Portfolio Website | ThreeJS & Framermotion
 
-![screen-shot](https://ibb.co/Y4HgNdvV)
+![screen-shot](https://i.ibb.co/p6Yq1KCk/image.png)
 
 You can see a live preview of the Stunning 3D Portfolio Website [here](https://hari-portfolio-2025-one.vercel.app).
 
