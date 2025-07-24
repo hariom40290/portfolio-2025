@@ -1,4 +1,4 @@
-# Stunning 3D Portfolio Website | ThreeJS & Framermotion
+# Stunning 3D Portfolio Website 
 
 ![screen-shot](https://i.ibb.co/p6Yq1KCk/image.png)
 
@@ -20,15 +20,8 @@ To get started with the Stunning 3D Portfolio Website, follow these steps:
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/Andrew-Tsegaye/Stunning_3D_Portfolio_Website.git
+   git clone https://github.com/hariom40290/portfolio-2025.git
 ```
-2. Navigate to the project directory:
-```bash
-  cd Stunning_3D_Portfolio_Website
-```
-3. Open the `index.html` file in your preferred web browser.
-   
-That's it! You're now ready to explore and customize your stunning 3D portfolio website.
 
 ## Contributing
 Contributions are welcome and encouraged! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request. 
